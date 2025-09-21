@@ -1,6 +1,7 @@
 # End-to-End Movie Ratings Analytics Project
 
-<img width="516" height="296" alt="Movies Dashboard " src="https://github.com/user-attachments/assets/031612b8-ed1b-4842-ab5a-9caf52d2dac2" />
+
+<img width="670" height="383" alt="Movies Dashboard " src="https://github.com/user-attachments/assets/dbfe5d07-814e-458e-be07-e9e474eff917" />
 
 
 ## Overview
